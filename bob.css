@@ -1,0 +1,47 @@
+.bebe{
+    margin: 100px 50px;
+    margin-top: 9px;
+    display: flex;
+}
+.bibi{
+    margin-left: 200px;
+    display: flex;
+    gap: 30px;
+}
+.baba{
+    color: rgb(227, 110, 20);
+}
+.bubu img{
+    margin-top: -125px;
+    width: 850px;
+    height: 750px;
+}
+.bubu{
+ position: relative;
+}
+.vip{
+    position: absolute;
+    bottom: 400px;
+    left: 300px;
+    color: rgb(165, 14, 29);
+    font-size: 25px;
+}
+.vap{
+    position: relative;
+    bottom:400px ;
+    left:350px ;
+}
+.vat{
+    margin: -5px;
+    padding: 7px 15px;
+    background-color: rgb(233, 146, 122);
+    border: none;
+    color: aliceblue;
+}
+.vas{
+    width:-5px ;
+    padding: 5px 10px;
+    background: none;
+    border-radius: 0px;
+    border: 2px solid rgb(233, 146, 122);
+}
